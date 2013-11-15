@@ -34,12 +34,19 @@ On Kindle (tested on K4 NT)
   * jailbreak your kindle, get SSH working (plenty of tutorials available, just google it ;)
   * SSH into you Kindle and enter the following commands (for Kindle 4NT - other Kindles might be different!):
 
+    The common screensaver hack:
+
     ```
     mntroot rw
     mkdir /mnt/us/screensaver
     mount /dev/mmcblk0p1 /mnt/base-mmc
     mv /mnt/base-mmc/opt/amazon/screen_saver/600x800 /mnt/base-mmc/opt/amazon/screen_saver/600x800.old
     ln -sfn /mnt/us/screensaver /mnt/base-mmc/opt/amazon/screen_saver/600x800
+    ```
+
+    And here comes the custom part:
+
+    ```
     echo '*/5 * * * * /mnt/us/screensaver/screensaver.sh' >> /etc/crontab/root
     sync
     mntroot ro

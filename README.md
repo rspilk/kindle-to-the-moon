@@ -3,6 +3,11 @@ kindle-to-the-moon
 
 Kindle 4NT Bitcoin Dashboard
 
+Thanks to:
+  * bitcoincharts.com for the charts
+  * mtgox.com for the ticker
+  * all the Kindle hackers at mobileread.com
+
 Published at http://saironiq.blogspot.com/2013/11/kindle-4nt-bitcoin-dashboard.html
 
 Distributed under the GNU General Public License version 3 (GPLv3) - see LICENSE for details.

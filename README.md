@@ -3,6 +3,12 @@ kindle-to-the-moon
 
 Kindle 4NT Bitcoin Dashboard
 
+Tested only on Kindle 4 Non-Touch, but should work on most if not all Kindles (just be sure not to brick it).
+
+You will need:
+  * jailbroken Kindle with SSH access
+  * server (OPTIONAL)
+
 Thanks to:
   * bitcoincharts.com for the charts
   * mtgox.com for the ticker

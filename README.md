@@ -15,6 +15,7 @@ Setup
 On the server
 -------------
 
+  * NOTE: if you don't want/need to have a custom image, you can skip this and use mine - more details in the "Kindle" section below
   * requirements: python2 with some libs, imagemagick suite, running webserver
   * copy ```template.svg```, ```gox.py``` and ```generate.sh``` into your server
   * modify the above files to suit your needs, especially the ```WWWROOT``` variable in ```generate.sh```
@@ -58,7 +59,7 @@ On Kindle (tested on K4 NT)
     * however, when your Kindle is awake (you're reading a book etc...) the cron job WILL run at the preset interval (and drain your battery if you set it to run too often)
 
   * now you have a new empty folder named ```screensaver``` on the user partition of your Kindle (the one that can be accessed over USB from your PC)
-  * modify the image URL in ```screensaver.sh``` to point to your server
+  * modify the image URL in ```screensaver.sh``` to point to your server OR if you'd like to use my dashboard (look below for a screenshot) - just put in the following URL: http://yacexplorer.tk/static/my_kindle.png - it's updated every 5 minutes
   * put the ```screensaver.sh``` script into the screensaver folder on Kindle (over a standard USB mass storage conenction); the script works as follows:
     * first it checks if you have WiFi connected (if not, exits immediately)
     * then it downloads the screensaver image

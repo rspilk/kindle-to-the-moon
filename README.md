@@ -3,6 +3,8 @@ kindle-to-the-moon
 
 Kindle 4NT Bitcoin Dashboard
 
+Published at http://saironiq.blogspot.com/2013/11/kindle-4nt-bitcoin-dashboard.html
+
 Distributed under the GNU General Public License version 3 (GPLv3) - see LICENSE for details.
 
 

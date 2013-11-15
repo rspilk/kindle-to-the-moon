@@ -5,8 +5,8 @@ Kindle 4NT Bitcoin Dashboard
 
 Distributed under the GNU General Public License version 3 (GPLv3) - see LICENSE for details.
 
-![photo of my Kindle 4NT running this hack](https://github.com/saironiq/kindle-to-the-moon/blob/master/preview/photo.jpg)
-![the raw png](https://github.com/saironiq/kindle-to-the-moon/blob/master/preview/raw.png)
+![photo of my Kindle 4NT running this hack](https://github.com/saironiq/kindle-to-the-moon/raw/master/preview/photo.jpg)
+![the raw png](https://github.com/saironiq/kindle-to-the-moon/raw/master/preview/raw.png)
 
 
 Setup

@@ -5,9 +5,6 @@ Kindle 4NT Bitcoin Dashboard
 
 Distributed under the GNU General Public License version 3 (GPLv3) - see LICENSE for details.
 
-![photo of my Kindle 4NT running this hack](https://github.com/saironiq/kindle-to-the-moon/raw/master/preview/photo.jpg)
-![the raw png](https://github.com/saironiq/kindle-to-the-moon/raw/master/preview/raw.png)
-
 
 Setup
 =====
@@ -58,4 +55,7 @@ On Kindle (tested on K4 NT)
     * then it downloads the screensaver image
     * after that if you have your screen locked, it refreshes the screen saver image and writes the current date/time on the top of screen (if not, it simply replaces it and you will see it the next time you lock your Kindle)
 
-* now it you've done everything correctly, you should get something like the photo/image above instead of the boring old screensavers ;)
+* now it you've done everything correctly, you should get something like the photo/image below instead of the boring old screensavers ;)
+
+![photo of my Kindle 4NT running this hack](https://github.com/saironiq/kindle-to-the-moon/raw/master/preview/photo.jpg)
+![the raw png](https://github.com/saironiq/kindle-to-the-moon/raw/master/preview/raw.png)

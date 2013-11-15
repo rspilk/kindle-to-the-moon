@@ -1,0 +1,15 @@
+<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g font-family="DejaVu Sans" id="ticker">
+   <text font-size="100px" y="150" x="300" text-anchor="middle" id="last_value">LAST_PRICE</text>
+   <text font-size="20px" y="200" x="100" text-anchor="middle" id="buy_label">Bid</text>
+   <text font-size="30px" y="235" x="100" text-anchor="middle" id="buy_value">BUY_PRICE</text>
+   <text font-size="20px" y="200" x="500" text-anchor="middle" id="sell_label">Ask</text>
+   <text font-size="30px" y="235" x="500" text-anchor="middle" id="sell_value">SELL_PRICE</text>
+   <text font-size="64px" y="235" x="300" text-anchor="middle" id="moon2">┗(°0°)┛</text>
+   <text font-size="64px" y="310" x="300" text-anchor="middle" id="moon">To the Moon!<tspan dy="-42" font-size="16px">*</tspan></text>
+   <text font-size="10px" y="340" x="300" text-anchor="middle" id="updated">Last update: LAST_UPDATE</text>
+   <text font-size="10px" y="790" x="10" text-anchor="left" id="disclaimer">*  Past performance is not an indicator of future results</text>
+  </g>
+ </g>
+</svg>

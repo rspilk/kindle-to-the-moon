@@ -4,7 +4,7 @@
 WWWROOT="/var/www/static"
 
 # chart URLs
-BTC_CHART='http://www.bitcoincharts.com/charts/chart.png?width=600&height=163&m=mtgoxUSD&SubmitButton=Draw&r=1&i=30-min&c=0&s=&e=&Prev=&Next=&t=S&b=&a1=&m1=10&a2=&m2=25&x=0&i1=Vol&i2=&i3=&i4=&v=0&cv=0&ps=0&l=0&p=0&'
+BTC_CHART='http://www.bitcoincharts.com/charts/chart.png?width=600&height=163&r=1&i=30-min&t=S&i1=Vol&m=mtgoxUSD'
 DEPTH_CHART='http://bitcoincharts.com/charts/mtgoxUSD/accumulated_orderbook.png'
 
 # change cwd to this script's location so we don't make a mess elsewhere
